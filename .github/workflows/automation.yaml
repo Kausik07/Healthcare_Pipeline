@@ -25,5 +25,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: hkseal/health-app-streamlit:latest
+        tags: kausik07/healthcare_app:latest
 
